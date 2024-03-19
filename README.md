@@ -29,7 +29,7 @@ IDE: Google Colab.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637]()
+![Screenshot 2023-11-25 133637](https://github.com/vv893497/Potato-Plant-Disease-Classification-Using-Deep-Learning-Concepts/blob/main/arch.png)
 
 
 ## Output
