@@ -29,7 +29,7 @@ IDE: Google Colab.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot 2023-11-25 133637]()
 
 
 ## Output
@@ -40,7 +40,7 @@ IDE: Google Colab.
 ![Screenshot 2023-11-25 134037](https://github.com/vv893497/Potato-Plant-Disease-Classification-Using-Deep-Learning-Concepts/blob/main/12345.png)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253]()
+![Screenshot 2023-11-25 134253](https://github.com/vv893497/Potato-Plant-Disease-Classification-Using-Deep-Learning-Concepts/blob/main/67667.png)
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
@@ -48,13 +48,14 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+In the initial epoch, the training data exhibited an accuracy of 46%, accompanied by a loss of 61%. Notably, a remarkable improvement was observed in the accuracy, reaching 97% with a minimal loss of 0.05%. Conversely, on the validation data, the accuracy started at 43% with a corresponding loss of 59% in the first epoch. Subsequently, by the 10th epoch, a substantial enhancement was observed, with an accuracy of 92% and a loss of 12%.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.	Varun Jindal;Yukta Nagpal;Vinay Kukreja, CNN Implementation for Severity Levels of Potato Blight Disease, 2022 International Conference on Data Analytics for Business and Industry (ICDABI)
+2.	Natnael Tilahun Sinshaw; Beakal Gizachew Assefa; Sudhir Kumar Mohapatra, Transfer Learning and Data Augmentation Based CNN Model for Potato Late Blight Disease Detection, International Conference on Information and Communication Technology for Development for Africa (ICT4DA), 2021.
+
 
 
 
