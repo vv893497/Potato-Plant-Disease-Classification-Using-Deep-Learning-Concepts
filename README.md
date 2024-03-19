@@ -1,4 +1,4 @@
-![image](https://github.com/vv893497/Potato-Plant-Disease-Classification-Using-Deep-Learning-Concepts/assets/108861302/439ebc05-46e6-4d17-970c-dc21da4dd0b9)# Potato-Plant-Disease-Classification-Using-Deep-Learning-Concepts
+Potato-Plant-Disease-Classification-Using-Deep-Learning-Concepts
 Classifying potato diseases using deep learning concepts involves building a model that can accurately identify different diseases affecting potato plants based on input images. Here's a breakdown of the scope for such a project.
 
 About:
